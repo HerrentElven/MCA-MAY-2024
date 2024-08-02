@@ -38,7 +38,7 @@ wifi_password = "burn01hahaha"
 url = "http://wifitest.adafruit.com/testwifi/index.html"
 
 # Define ThingSpeak API settings
-THINGSPEAK_API_KEY = 'HLJG3ZCW94G3435O'  # Replace with your ThingSpeak API Key
+THINGSPEAK_API_KEY = 'HLJG3ZCW94G3435O'  
 THINGSPEAK_API_URL = 'https://api.thingspeak.com/update'
 
 def connect_to_wifi():
